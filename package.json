@@ -1,11 +1,11 @@
 {
-  "name": "pbclife",
+  "name": "priyanka-deshmukh8",
   "author": "Sagar Bera",
   "description": "A full-stack open source project. To learn and getting started with open source. The project is being made on top of React and NextJs framework",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "homepage": "https://github.com/pbclife/pbclife",
+  "homepage": "https://github.com/priyanka-deshmukh8/priyanka-deshmukh8",
   "engines": {
     "node": ">=14.0.0",
     "yarn": ">=1.22.0"

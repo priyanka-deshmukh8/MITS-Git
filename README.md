@@ -3,161 +3,101 @@
 [![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/priyanka-deshmukh8/MITS-Git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/priyanka-deshmukh8/MITS-Git/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/badges/shields)](https://github.com/priyanka-deshmukh8/MITS-Git/graphs/contributors)
-![GitHub Repo stars](https://img.shields.io/github/stars/pbclife/MITS-Git?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/pbclife/MITS-Git?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/pbclife/MITS-Git?style=flat)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/pbclife/MITS-Git?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/priyanka-deshmukh8/MITS-Git?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/priyanka-deshmukh8/MITS-Git?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/priyanka-deshmukh8/MITS-Git?style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/priyanka-deshmukh8/MITS-Git?style=flat)
 
-![landingPage](https://user-images.githubusercontent.com/71945723/227792530-993f74ab-7c78-4e46-a3f6-69de0af9c597.jpg)
-
-🚀 Start your Open Source Journey! Contribute Today! 🤝
+🚀 **Start your Open Source Journey! Contribute Today!** 🤝
 
 ## Table of Contents
 
-- [What is MITSgit?](#what-is-MITSgit)
-- [Learn Contributing 📖](#learn-contributing-📖)
-- [Become Contributor 👥](#become-contributor-👥)
-- [How it works 🛠️](#how-it-works-🛠️)
-- [How to create your profile 📝](#how-to-create-your-profile-📝)
-- [Contribution guide 🤝](#contribution-guide-🤝)
-  - [Installation 🚧](#installation-🚧)
-  - [Contributing Guidelines 📜](#contributing-guidelines-📜)
-- [📝 License](#📝-license)
+- [What is MITS Git?](#what-is-mits-git)
+- [Learn Contributing 📖](#learn-contributing-)
+- [Become a Contributor 👥](#become-a-contributor-)
+- [How it Works 🛠️](#how-it-works-️)
+- [Create Your Profile 📝](#create-your-profile-)
+- [Contribution Guide 🤝](#contribution-guide-)
+  - [Installation 🚧](#installation-)
+  - [Contributing Guidelines 📜](#contributing-guidelines-)
+- [📝 License](#-license)
+- [Special Thanks to Our Contributors ❤️](#special-thanks-to-our-contributors-)
 
-## What is MITSgit?
+## What is MITS Git?
 
-MITS Git is a beginner friendly open source project. This project serves as a guide to open source, with step by step information on how you can contribute. If you want to see your code in action, you're in the right place! 💻
+Welcome to MITS Git, your gateway to the world of open source! MITS Git is an innovative and beginner-friendly open source project that serves as a comprehensive guide for anyone looking to contribute to open source software. Whether you're an experienced developer or just starting your coding journey, MITS Git provides step-by-step information on how you can make your mark in the open source community. Join us today and see your code come to life! 💻
 
 ## Learn Contributing 📖
 
-Everything you need to know to contribute to open source can be found here, from creating an issue to opening a pull request. Basic terminology can be found here! 📚
+At MITS Git, we believe in empowering our contributors with the knowledge they need to succeed. Our Learn Contributing section is your go-to resource for all things open source. From creating an issue to opening a pull request, we cover it all. Whether you're new to the world of open source or looking to expand your skills, our comprehensive guides and terminology section will provide you with the foundation you need to make meaningful contributions. Let's learn and grow together! 📚
 
-![guidesPage](https://user-images.githubusercontent.com/71945723/227792563-8ab9c59b-8187-4108-93cd-4157d97fe687.png)
+## Become a Contributor 👥
 
-## Become Contributor 👥
+Ready to shine in the open source spotlight? At MITS Git, we appreciate and celebrate our contributors. When you contribute to our project, you become part of our vibrant community. As a contributor, your profile will be featured on our web app, showcasing your skills and contributions to the world. Join our growing list of talented developers and leave your mark on MITS Git! 👨‍💻👩‍💻
 
-Contributors are featured on the web app. 👨‍💻👩‍💻
+## How it Works 🛠️
 
-![contributorsPage](https://user-images.githubusercontent.com/71945723/227792580-531716bd-8404-4472-bb21-601d8ca62ce5.png)
+Curious about how MITS Git works? We've got you covered! Our platform authenticates contributors based on your contribution file, `your-github-username.mdx`. Once authenticated, you'll have access to your own profile page, where you can showcase your contributions and accomplishments. MITS Git is built with modern technologies such as ReactJS, NextJS, TypeScript, and TailwindCSS, ensuring a seamless and interactive experience. Join us and witness the power of open source collaboration!
 
-## How it works 🛠️
+## Create Your Profile 📝
 
-Based on your contribution file `your-github-username.mdx`, MITSgit will authenticate you.
+Ready to get started? Follow these simple steps to create your profile on MITS Git:
 
-![profilePage](https://user-images.githubusercontent.com/71945723/227792597-05eb9130-3c99-4682-a1f1-8237a8c33efa.png)
-![profilePage2](https://user-images.githubusercontent.com/71945723/227792601-5764ceaa-c289-41f4-b126-3b1d44a6eac4.png)
+1. Fork the repository into your account 🍴
+2. Clone the project to your local machine 🖥️
+3. Navigate to the project folder 📂
+4. Install the project dependencies using the package manager of your choice
+5. Create a `.env.local` file in the project's root directory and set the required variables
+6. Run the project on your local machine
+7. Follow the provided documentation to create your profile and start making contributions
 
-## How to create your profile 📝
-
-Installation steps are featured [here](#installation).
-
-If you want to skip the installation and create your profile directly, head over to [docs](docs/guides/starting-contribution/getting-started.mdx).
-
-<!-- Description -->
-
-Check out the [contribution guidelines](#contributing-guidelines) before contributing.
-
-## Contribution guide 🤝
+## Contribution Guide 🤝
 
 ### Installation 🚧
 
-> This is a Next.js project bootstrapped with create-next-app
+To set up the MITS Git project locally, follow these steps:
 
-1. Fork the repo into your account 🍴
-   ![Fork Image](https://i.imgur.com/mNw6zxu.png)
-2. Clone the project into your local machine 🖥️
+1. Fork the repository into your own GitHub account 🍴
+2. Clone the project to your local machine using the command:
+   ```
+   git clone https://github.com/<Your-GitHub-username>/MITS-Git.git
+   ```
+3. Navigate to the project folder:
+   ```
+   cd MITS-Git
+   ```
+4. Install the project dependencies using your preferred package manager. As MITS Git uses Yarn, you can run:
+   ```
+   yarn install
+   ```
 
-```sh
-git clone https://github.com/<Your-GitHub-username>/MITS-Git.git
-```
+For more detailed instructions and configuration options, please refer to our [contribution guidelines](#contributing-guidelines).
 
-3. Navigate the folder 📂
+### Contributing Guidelines 📜
 
-```sh
-cd MITS-Git
-```
+Thank you for considering contributing to the MITS Git project! We welcome contributions from developers of all levels. If you're new to open source or want to learn more about the technologies used in this project, we provide useful links to relevant documentation, including ReactJS, NextJS, TypeScript, and TailwindCSS. You can find these resources in our [contributing guidelines](#contributing-guidelines).
 
-3. Install the dependencies 📦
-   > As MITS Git uses yarn package manager, it is recommended to use yarn, [install yarn][yarn-website]
+To make a contribution, follow these steps:
 
-```sh
-yarn install
-```
+1. Choose a feature or bug to work on 🎉
+2. Fork the repository into your GitHub account 🍴
+3. Clone your forked repository to your local machine
+4. Create a new branch for your work
+5. Make the necessary changes and additions
+6. Commit your changes with a descriptive message
+7. Push your changes to your forked repository
+8. Submit a pull request to the original repository
 
-4. Make .env.local file in root directory with these variables 📁
-   > This step is optional, Do this step if you want to run complete application with database support
-
-```
-MONGO_URI= 'YOUR MONGODB CONNECTION STRING GOES HERE'
-GITHUB_TOKEN= 'YOUR GITHUB TOKEN GOES HERE'
-```
-
-- Get mongodb connection string here: [MONGODB DOCS][mongodb-docs]
-- Generate github token here: [GITHUB TOKEN][github-token]
-
-5. Run the project on local machine
-
-```sh
-yarn dev
-```
-
-6. Every time you start making changes to your forked repo make sure it's in sync with the original repo
-
-## Contributing Guidelines 📜
-
-Thank you for considering to contribute to this project.
-
-### What do I need to know to contribute? 🤔
-
-This project is in a very early stage so anybody who's familiar with **ReactJS**/**NextJS**/**Typescript**/**TailwindCSS** can contribute. If you don't feel ready to make a contribution yet, no problem at all. You can also contribute to this `README` section or the **Documentation** part of our project. 😊
-
-If you are interested to contribute and want to learn more about the technologies that are used in this project, checkout the links below. 🔍
-
-- [ReactJS Official Docs](https://reactjs.org/docs/getting-started.html)
-- [NextJS Documentation](https://beta.nextjs.org/docs)
-- [Typescript Documentaion](https://www.typescriptlang.org/docs/)
-- [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
-
-### How to make a Contribution? 🤝👩‍💻👨‍💻
-
-Never made an open source contribution before? And wondering how to contribute to this project? 😕 No worries! Here's a quick guide, 🚀
-
-1. Choose any feature/bug you wish to contribute to. 🎉
-2. Fork the repository into your own account. 🍴
-3. Clone the repo you have forked in your local machine using `git clone https://github.com/<Your-GitHub-username>/MITS-Git.git`
-4. Create a new branch for your fix by using the command `git checkout -b YourName-branch-name `
-5. Make the changes you wish to do and stage them using the command `git add files-you-have-changed ` or use `git add .`
-6. Use the command `git commit -m "Short description of the changes"` to describe the changes you have done with a message.
-7. Push the changes to your remote repository using `git push origin your-branch-name`
-8. Submit a PR(pull request) to the upstream repository `pbclife/MITS-Git` with a title and a small description. 🙏
-9. Wait for the pull request to be reviewed by us. 🕰️
-10. Make appropriate changes if the maintainer recommends you to and submit it. 🔄
-11. Await for your contribution to be merged into the repository. 🎊
-
-Checkout the [Contributing.md][contributing] file before contributing. 📖
-
-<!-- ### Where can I go for help? -->
+Please refer to our [contributing guidelines](#contributing-guidelines) for more detailed instructions and best practices.
 
 ## 📝 License
 
-View [Project License][license]
+MITS Git is open source software licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT). The MIT License is a permissive free software license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. By contributing to MITS Git, you agree that your contributions will be licensed under MIT as well.
 
-This project is licensed under the terms of the [MIT license](https://opensource.org/license/mit/). The MIT license is a permissive free software license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. It is a simple and short license that is compatible with most open source licenses and is widely used in the open source community.
+## Special Thanks to Our Contributors ❤️
 
-The MIT license includes a disclaimer of liability, meaning that the project's contributors cannot be held liable for any damages that may arise from the use of the software. It also requires that any copies or modifications of the software include the same license terms and copyright notice as the original software.
+We extend our heartfelt gratitude to all the talented contributors who have made MITS Git a thriving open source project. Their dedication and commitment have played a significant role in shaping this platform. We would like to acknowledge their valuable contributions and express our deepest appreciation for their support. Thank you!
 
-## Thanks to all the Contributors ❤️
+To see the complete list of our amazing contributors, please visit the [contributors page](https://github.com/priyanka-deshmukh8/MITS-Git/graphs/contributors).
 
-<a href = "https://github.com/priyanka-deshmukh8/MITS-Git/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=pbclife/MITS-Git"/>
-</a>
-
-## Your Support means a lot
-
-Give a ⭐ to the project if you liked it. 😊
-
-[yarn-website]: https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable
-[mongodb-docs]: https://www.mongodb.com/docs/compass/current/connect
-[github-token]: https://github.com/settings/tokens
-[contributing]: https://github.com/priyanka-deshmukh8/MITS-Git/blob/main/CONTRIBUTING.md
-[license]: https://github.com/priyanka-deshmukh8/MITS-Git/blob/main/LICENCE
+Your support means a lot to us. Don't
