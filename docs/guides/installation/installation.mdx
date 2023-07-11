@@ -1,0 +1,83 @@
+---
+title: Installation
+edit: https://github.com/priyanka-deshmukh8/MITS-Git/edit/main/docs/installation.mdx
+---
+
+# Installation
+
+- [Fork the Repository][fork-link] into your github account
+
+- Clone the project into your local machine by running following comman in console
+
+```bash Clone to local machine
+git clone https://github.com/<your-github-username>/MITS-Git.git
+```
+
+- Navigate to the folder after successful cloning
+
+```bash Change Directory
+cd MITS-Git
+```
+
+- Install required dependencies to run this software in your local machine
+  > As MITS Git uses yarn package manager, it is recommended to use yarn, [install yarn][yarn-website]
+
+```bash Terminal
+yarn
+```
+
+- Make .env.local file in root directory with these variables
+  > This step is optional, Do this step if you want to run complete application with database support
+
+```bash .env.local
+MONGO_URI=<YOUR MONGODB CONNECTION STRING GOES HERE>
+GITHUB_TOKEN=<YOUR GITHUB TOKEN GOES HERE>
+```
+
+- Get mongodb connection string here: [MONGODB DOCS][mongodb-docs]
+- Generate github token here: [GITHUB TOKEN][github-token]
+
+- Run the project on your local machine
+
+```sh Terminal
+yarn dev
+```
+
+- Every time you start making changes to your forked repo make sure it's in sync with the original repo
+
+<NextImage alt="image" src="/images/gradbg.jpg" />
+
+<Tip>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, quas!
+</Tip>
+
+<Alert>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, quas!
+</Alert>
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, quas!
+
+<Grid>
+  <Github
+    name="Sagar Bera"
+    username="sboy99"
+    activeHere
+    href="https://github.com/sboy99"
+  >
+    dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet
+    consectetur adipisicing elit. Nostrum odio ab asperiores!
+  </Github>
+
+  <Twitter name="Aadarsh Thakur" username="sboy99" href="Github Star">
+    dolor sit amet consectetur adipisicing elit.
+  </Twitter>
+  
+  <LinkedIn name="Thakur" username="sboy99" href="Github Star">
+    dolor sit amet consectetur adipisicing elit.
+  </LinkedIn>
+</Grid>
+
+[fork-link]: https://github.com/priyanka-deshmukh8/MITS-Git/fork
+[yarn-website]: https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable
+[mongodb-docs]: https://www.mongodb.com/docs/compass/current/connect
+[github-token]: https://github.com/settings/tokens
